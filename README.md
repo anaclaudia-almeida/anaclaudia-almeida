@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Ana Claudia Almeida 😁
+## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
    <a href="https://github.com/anaclaudia-almeida">
